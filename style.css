@@ -1,0 +1,6 @@
+.card-img-top {
+    object-fit: cover;
+    width: 225px;
+    height: 225px;
+    cursor: pointer;
+}

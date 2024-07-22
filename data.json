@@ -1,0 +1,22 @@
+{
+    "0": {
+        "name": "Clap",
+        "img": "imgs/0.png",
+        "audio" : "audio/0.mp3"
+    },
+    "1": {
+        "name": "Clap",
+        "img": "imgs/0.png",
+        "audio" : "audio/0.mp3"
+    },
+    "2": {
+        "name": "Clap",
+        "img": "imgs/0.png",
+        "audio" : "audio/0.mp3"
+    },
+    "3": {
+        "name": "Clap",
+        "img": "imgs/0.png",
+        "audio" : "audio/0.mp3"
+    }
+}
